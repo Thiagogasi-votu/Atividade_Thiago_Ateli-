@@ -1,0 +1,90 @@
+#bodysobre{
+    background-image:url(../_IMAGE/sobre.png);
+    background-position: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 20px;
+}
+#bodycontato{
+    background-image:url(../_IMAGE/sobre.png);
+    background-position: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#bodyindex{
+    background-image:url(../_IMAGE/index.png);
+    background-position: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#divindex1{
+    font-family: italic; ;
+    text-align: center;
+    margin-top: 18%;
+}
+#h1index{
+    font-weight: 300;
+    color: #633b00f1;
+    font-size: 60px;
+    margin-bottom: 0px;
+}
+#h2index1, #h2index2, #h2index3{
+    font-weight: 200;
+    color: #633b00f1;
+    font-size: 40px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+#h3index{
+    font-weight: 200;
+    color: #633b00f1;
+    font-size: 28px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+#h1menu{
+    font-weight: 300;
+    color: #633b00f1;
+    font-size: 40px;
+    margin-bottom: 0px;
+}
+#h1contato{
+    font-weight: 300;
+    color: #633b00f1;
+    font-size: 60px;
+    margin-bottom: 0px;
+}
+#h2contato1, #h2contato2{
+    font-weight: 200;
+    color: #633b00f1;
+    font-size: 40px;
+    margin-bottom: 0px;
+    margin-top: 50px;
+}
+#h3contato{
+    font-weight: 200;
+    color: #633b00f1;
+    font-size: 28px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+#formcontato{
+    text-align: center;
+    margin-top: 10%;
+}
+#footercontato{
+    color: #633b00f1;
+    text-align: center;
+    margin-top: 4%;
+}
+#divsobre1{
+    font-family: italic; ;
+    text-align: center;
+    margin-top: 1%;
+    color: #633b00f1;
+}
+hr{
+    border: 1px solid #633b00f1;
+    margin: 20px 0;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.1);
+}
